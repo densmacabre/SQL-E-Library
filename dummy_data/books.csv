@@ -1,0 +1,782 @@
+book_id,title,category_id,library_id,publisher_id,author_id,quantity
+B-001,It's Only the Himalayas,C-01,L-08,P-12,A-189,1
+B-002,Full Moon over Noahâs Ark: An Odyssey to Mount Ararat and Beyond,C-01,L-06,P-39,A-44,9
+B-003,See America: A Celebration of Our National Parks & Treasured Sites,C-01,L-02,P-48,A-287,9
+B-004,Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel,C-01,L-05,P-48,A-152,2
+B-005,Under the Tuscan Sun,C-01,L-04,P-44,A-138,7
+B-006,A Summer In Europe,C-01,L-08,P-54,A-85,10
+B-007,The Great Railway Bazaar,C-01,L-05,P-34,A-191,5
+B-008,A Year in Provence (Provence #1),C-01,L-01,P-40,A-317,6
+B-009,The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2),C-01,L-03,P-15,A-330,6
+B-010,Neither Here nor There: Travels in Europe,C-01,L-08,P-54,A-09,5
+B-011,"1,000 Places to See Before You Die",C-01,L-02,P-30,A-15,3
+B-012,Sharp Objects,C-02,L-03,P-08,A-343,3
+B-013,"In a Dark, Dark Wood",C-02,L-03,P-02,A-201,6
+B-014,The Past Never Ends,C-02,L-08,P-10,A-120,8
+B-015,A Murder in Time,C-02,L-07,P-26,A-131,4
+B-016,The Murder of Roger Ackroyd (Hercule Poirot #4),C-02,L-01,P-14,A-192,2
+B-017,The Last Mile (Amos Decker #2),C-02,L-01,P-37,A-172,6
+B-018,That Darkness (Gardiner and Renner #1),C-02,L-05,P-15,A-142,5
+B-019,Tastes Like Fear (DI Marnie Rome #3),C-02,L-04,P-34,A-268,10
+B-020,A Time of Torment (Charlie Parker #14),C-02,L-08,P-09,A-232,5
+B-021,A Study in Scarlet (Sherlock Holmes #1),C-02,L-02,P-45,A-291,2
+B-022,Poisonous (Max Revere Novels #3),C-02,L-07,P-53,A-220,3
+B-023,Murder at the 42nd Street Library (Raymond Ambler #1),C-02,L-02,P-13,A-148,3
+B-024,Most Wanted,C-02,L-06,P-14,A-37,7
+B-025,Hide Away (Eve Duncan #20),C-02,L-05,P-12,A-195,10
+B-026,Boar Island (Anna Pigeon #19),C-02,L-07,P-38,A-302,3
+B-027,The Widow,C-02,L-07,P-56,A-15,10
+B-028,Playing with Fire,C-02,L-08,P-36,A-124,5
+B-029,What Happened on Beale Street (Secrets of the South Mysteries #2),C-02,L-04,P-39,A-217,6
+B-030,The Bachelor Girl's Guide to Murder (Herringford and Watts Mysteries #1),C-02,L-08,P-25,A-323,10
+B-031,Delivering the Truth (Quaker Midwife Mystery #1),C-02,L-03,P-52,A-182,2
+B-032,The Mysterious Affair at Styles (Hercule Poirot #1),C-02,L-05,P-47,A-172,1
+B-033,In the Woods (Dublin Murder Squad #1),C-02,L-08,P-52,A-261,10
+B-034,The Silkworm (Cormoran Strike #2),C-02,L-07,P-58,A-96,5
+B-035,The Exiled,C-02,L-07,P-25,A-194,5
+B-036,The Cuckoo's Calling (Cormoran Strike #1),C-02,L-01,P-02,A-336,10
+B-037,Extreme Prey (Lucas Davenport #26),C-02,L-08,P-25,A-50,6
+B-038,Career of Evil (Cormoran Strike #3),C-02,L-02,P-15,A-242,5
+B-039,The No. 1 Ladies' Detective Agency (No. 1 Ladies' Detective Agency #1),C-02,L-01,P-26,A-209,4
+B-040,The Girl You Lost,C-02,L-05,P-45,A-117,4
+B-041,The Girl In The Ice (DCI Erika Foster #1),C-02,L-02,P-54,A-164,4
+B-042,Blood Defense (Samantha Brinkman #1),C-02,L-08,P-14,A-274,6
+B-043,1st to Die (Women's Murder Club #1),C-02,L-04,P-21,A-253,9
+B-044,Tipping the Velvet,C-03,L-05,P-26,A-244,5
+B-045,Forever and Forever: The Courtship of Henry Longfellow and Fanny Appleton,C-03,L-06,P-58,A-253,7
+B-046,A Flight of Arrows (The Pathfinders #2),C-03,L-02,P-27,A-81,6
+B-047,The House by the Lake,C-03,L-08,P-24,A-256,9
+B-048,Mrs. Houdini,C-03,L-07,P-60,A-147,6
+B-049,The Marriage of Opposites,C-03,L-03,P-12,A-69,3
+B-050,Glory over Everything: Beyond The Kitchen House,C-03,L-04,P-48,A-361,5
+B-051,"Love, Lies and Spies",C-03,L-06,P-04,A-170,2
+B-052,A Paris Apartment,C-03,L-04,P-39,A-284,10
+B-053,Lilac Girls,C-03,L-03,P-09,A-156,6
+B-054,The Constant Princess (The Tudor Court #1),C-03,L-06,P-12,A-200,3
+B-055,The Invention of Wings,C-03,L-04,P-48,A-11,7
+B-056,World Without End (The Pillars of the Earth #2),C-03,L-01,P-50,A-215,2
+B-057,The Passion of Dolssa,C-03,L-03,P-53,A-89,10
+B-058,Girl With a Pearl Earring,C-03,L-04,P-11,A-54,9
+B-059,Voyager (Outlander #3),C-03,L-06,P-03,A-202,7
+B-060,The Red Tent,C-03,L-05,P-60,A-143,10
+B-061,The Last Painting of Sara de Vos,C-03,L-02,P-53,A-288,4
+B-062,The Guernsey Literary and Potato Peel Pie Society,C-03,L-01,P-52,A-74,10
+B-063,Girl in the Blue Coat,C-03,L-01,P-10,A-233,7
+B-064,Between Shades of Gray,C-03,L-08,P-08,A-100,7
+B-065,While You Were Mine,C-03,L-02,P-16,A-128,8
+B-066,The Secret Healer,C-03,L-08,P-09,A-296,6
+B-067,Starlark,C-03,L-06,P-36,A-348,6
+B-068,Lost Among the Living,C-03,L-04,P-03,A-243,7
+B-069,A Spy's Devotion (The Regency Spies of London #1),C-03,L-02,P-34,A-235,6
+B-070,Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),C-04,L-08,P-16,A-353,9
+B-071,Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2),C-04,L-06,P-22,A-286,5
+B-072,This One Summer,C-04,L-08,P-60,A-250,4
+B-073,The Nameless City (The Nameless City #1),C-04,L-04,P-55,A-07,1
+B-074,"Saga, Volume 5 (Saga (Collected Editions) #5)",C-04,L-02,P-32,A-242,4
+B-075,"Rat Queens, Vol. 3: Demons (Rat Queens (Collected Editions) #11-15)",C-04,L-07,P-08,A-142,1
+B-076,"Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1)",C-04,L-05,P-17,A-86,9
+B-077,"Pop Gun War, Volume 1: Gift",C-04,L-07,P-40,A-86,5
+B-078,Patience,C-04,L-08,P-29,A-323,7
+B-079,"Outcast, Vol. 1: A Darkness Surrounds Him (Outcast #1)",C-04,L-05,P-56,A-56,5
+B-080,orange: The Complete Collection 1 (orange: The Complete Collection #1),C-04,L-02,P-01,A-283,6
+B-081,"Lumberjanes, Vol. 2: Friendship to the Max (Lumberjanes #5-8)",C-04,L-06,P-31,A-230,9
+B-082,"Lumberjanes, Vol. 1: Beware the Kitten Holy (Lumberjanes #1-4)",C-04,L-08,P-39,A-174,4
+B-083,Lumberjanes Vol. 3: A Terrible Plan (Lumberjanes #9-12),C-04,L-01,P-36,A-221,8
+B-084,"I Hate Fairyland, Vol. 1: Madly Ever After (I Hate Fairyland (Compilations) #1-5)",C-04,L-04,P-54,A-222,9
+B-085,I am a Hero Omnibus Volume 1,C-04,L-07,P-53,A-350,3
+B-086,"Giant Days, Vol. 2 (Giant Days #5-8)",C-04,L-08,P-44,A-296,7
+B-087,Danganronpa Volume 1,C-04,L-03,P-24,A-120,4
+B-088,"Codename Baboushka, Volume 1: The Conclave of Death",C-04,L-05,P-36,A-91,3
+B-089,Camp Midnight,C-04,L-03,P-47,A-03,6
+B-090,"Bitch Planet, Vol. 1: Extraordinary Machine (Bitch Planet (Collected Editions))",C-04,L-01,P-49,A-280,6
+B-091,The Shadow Hero (The Shadow Hero),C-04,L-06,P-24,A-169,6
+B-092,"Fables, Vol. 1: Legends in Exile (Fables #1)",C-04,L-02,P-33,A-163,10
+B-093,Batman: The Long Halloween (Batman),C-04,L-06,P-13,A-118,1
+B-094,Batman: The Dark Knight Returns (Batman),C-04,L-03,P-05,A-99,7
+B-095,"Wonder Woman: Earth One, Volume One (Wonder Woman: Earth One #1)",C-04,L-07,P-08,A-333,2
+B-096,"We Are Robin, Vol. 1: The Vigilante Business (We Are Robin #1)",C-04,L-03,P-01,A-237,7
+B-097,Through the Woods,C-04,L-03,P-33,A-212,3
+B-098,Superman Vol. 1: Before Truth (Superman by Gene Luen Yang #1),C-04,L-05,P-02,A-354,6
+B-099,"So Cute It Hurts!!, Vol. 6 (So Cute It Hurts!! #6)",C-04,L-03,P-49,A-326,8
+B-100,Robin War,C-04,L-01,P-36,A-309,9
+B-101,"Red Hood/Arsenal, Vol. 1: Open for Business (Red Hood/Arsenal #1)",C-04,L-02,P-47,A-174,4
+B-102,"Naruto (3-in-1 Edition), Vol. 14: Includes Vols. 40, 41 & 42 (Naruto: Omnibus #14)",C-04,L-06,P-49,A-150,1
+B-103,Lowriders to the Center of the Earth (Lowriders in Space #2),C-04,L-04,P-49,A-14,4
+B-104,El Deafo,C-04,L-04,P-41,A-153,3
+B-105,Batman: Europa,C-04,L-04,P-20,A-201,5
+B-106,Art Ops Vol. 1,C-04,L-05,P-55,A-298,8
+B-107,"Adulthood Is a Myth: A ""Sarah's Scribbles"" Collection",C-04,L-06,P-30,A-167,7
+B-108,"Fruits Basket, Vol. 9 (Fruits Basket #9)",C-04,L-01,P-03,A-357,9
+B-109,Roller Girl,C-04,L-03,P-50,A-177,5
+B-110,"Fruits Basket, Vol. 7 (Fruits Basket #7)",C-04,L-05,P-11,A-262,2
+B-111,"Fruits Basket, Vol. 6 (Fruits Basket #6)",C-04,L-02,P-53,A-152,3
+B-112,"Death Note, Vol. 6: Give-and-Take (Death Note #6)",C-04,L-05,P-45,A-23,5
+B-113,"Fruits Basket, Vol. 5 (Fruits Basket #5)",C-04,L-05,P-02,A-44,8
+B-114,"Death Note, Vol. 5: Whiteout (Death Note #5)",C-04,L-01,P-05,A-325,2
+B-115,"The Demon Prince of Momochi House, Vol. 4 (The Demon Prince of Momochi House #4)",C-04,L-01,P-60,A-115,8
+B-116,"Fruits Basket, Vol. 4 (Fruits Basket #4)",C-04,L-06,P-58,A-201,3
+B-117,"The Wicked + The Divine, Vol. 3: Commercial Suicide (The Wicked + The Divine)",C-04,L-04,P-16,A-272,3
+B-118,"The Sandman, Vol. 3: Dream Country (The Sandman (volumes) #3)",C-04,L-04,P-38,A-146,10
+B-119,"Saga, Volume 3 (Saga (Collected Editions) #3)",C-04,L-07,P-33,A-63,7
+B-120,Prodigy: The Graphic Novel (Legend: The Graphic Novel #2),C-04,L-03,P-07,A-118,6
+B-121,Persepolis: The Story of a Childhood (Persepolis #1-2),C-04,L-03,P-43,A-292,4
+B-122,Original Fake,C-04,L-03,P-04,A-292,9
+B-123,"Grayson, Vol 3: Nemesis (Grayson #3)",C-04,L-08,P-33,A-275,1
+B-124,"Fruits Basket, Vol. 3 (Fruits Basket #3)",C-04,L-05,P-37,A-208,3
+B-125,"Black Butler, Vol. 1 (Black Butler #1)",C-04,L-03,P-60,A-215,7
+B-126,Awkward,C-04,L-02,P-28,A-243,1
+B-127,"The Sandman, Vol. 2: The Doll's House (The Sandman (volumes) #2)",C-04,L-04,P-38,A-36,9
+B-128,"Saga, Volume 2 (Saga (Collected Editions) #2)",C-04,L-03,P-37,A-362,7
+B-129,"Fruits Basket, Vol. 2 (Fruits Basket #2)",C-04,L-07,P-21,A-148,1
+B-130,"Y: The Last Man, Vol. 1: Unmanned (Y: The Last Man #1)",C-04,L-07,P-37,A-178,9
+B-131,"The Wicked + The Divine, Vol. 1: The Faust Act (The Wicked + The Divine)",C-04,L-06,P-55,A-34,5
+B-132,"The Sandman, Vol. 1: Preludes and Nocturnes (The Sandman (volumes) #1)",C-04,L-03,P-14,A-254,6
+B-133,The Complete Maus (Maus #1-2),C-04,L-07,P-45,A-184,2
+B-134,"Skip Beat!, Vol. 01 (Skip Beat! #1)",C-04,L-04,P-40,A-354,3
+B-135,"Saga, Volume 1 (Saga (Collected Editions) #1)",C-04,L-02,P-27,A-164,3
+B-136,"Rat Queens, Vol. 1: Sass & Sorcery (Rat Queens (Collected Editions) #1-5)",C-04,L-06,P-17,A-313,9
+B-137,"Paper Girls, Vol. 1 (Paper Girls #1-5)",C-04,L-03,P-06,A-330,5
+B-138,"Ouran High School Host Club, Vol. 1 (Ouran High School Host Club #1)",C-04,L-04,P-04,A-15,5
+B-139,"Ms. Marvel, Vol. 1: No Normal (Ms. Marvel (2014-2015) #1)",C-04,L-03,P-39,A-122,2
+B-140,"Hawkeye, Vol. 1: My Life as a Weapon (Hawkeye #1)",C-04,L-06,P-15,A-24,6
+B-141,"Giant Days, Vol. 1 (Giant Days #1-4)",C-04,L-02,P-41,A-272,2
+B-142,"Fruits Basket, Vol. 1 (Fruits Basket #1)",C-04,L-03,P-25,A-344,1
+B-143,"Bleach, Vol. 1: Strawberry and the Soul Reapers (Bleach #1)",C-04,L-07,P-30,A-98,9
+B-144,"Ajin: Demi-Human, Volume 1 (Ajin: Demi-Human #1)",C-04,L-03,P-16,A-169,8
+B-145,The Secret Garden,C-05,L-02,P-47,A-49,9
+B-146,The Metamorphosis,C-05,L-03,P-58,A-340,7
+B-147,The Pilgrim's Progress,C-05,L-04,P-49,A-92,8
+B-148,The Hound of the Baskervilles (Sherlock Holmes #5),C-05,L-04,P-32,A-08,2
+B-149,Little Women (Little Women #1),C-05,L-03,P-56,A-158,5
+B-150,Gone with the Wind,C-05,L-02,P-05,A-118,2
+B-151,Candide,C-05,L-02,P-58,A-154,10
+B-152,Animal Farm,C-05,L-05,P-38,A-30,9
+B-153,Wuthering Heights,C-05,L-03,P-50,A-270,7
+B-154,The Picture of Dorian Gray,C-05,L-01,P-59,A-16,5
+B-155,The Complete Stories and Poems (The Works of Edgar Allan Poe [Cameo Edition]),C-05,L-01,P-29,A-145,7
+B-156,Beowulf,C-05,L-07,P-43,A-145,9
+B-157,And Then There Were None,C-05,L-08,P-46,A-65,6
+B-158,The Story of Hong Gildong,C-05,L-06,P-07,A-309,3
+B-159,The Little Prince,C-05,L-01,P-02,A-94,2
+B-160,Sense and Sensibility,C-05,L-05,P-12,A-246,4
+B-161,Of Mice and Men,C-05,L-05,P-43,A-299,8
+B-162,Emma,C-05,L-02,P-51,A-144,6
+B-163,Alice in Wonderland (Alice's Adventures in Wonderland #1),C-05,L-07,P-26,A-80,5
+B-164,Sophie's World,C-06,L-02,P-07,A-77,3
+B-165,The Death of Humanity: and the Case for Life,C-06,L-05,P-33,A-181,10
+B-166,The Stranger,C-06,L-05,P-31,A-68,7
+B-167,Proofs of God: Classical Arguments from Tertullian to Barth,C-06,L-07,P-16,A-07,6
+B-168,Kierkegaard: A Christian Missionary to Christians,C-06,L-02,P-59,A-03,8
+B-169,"At The Existentialist CafÃ©: Freedom, Being, and apricot cocktails with: Jean-Paul Sartre, Simone de Beauvoir, Albert Camus, Martin Heidegger, Edmund Husserl, Karl Jaspers, Maurice Merleau-Ponty and others",C-06,L-05,P-58,A-129,10
+B-170,Critique of Pure Reason,C-06,L-08,P-06,A-28,3
+B-171,"Run, Spot, Run: The Ethics of Keeping Pets",C-06,L-04,P-47,A-162,2
+B-172,The Nicomachean Ethics,C-06,L-06,P-34,A-289,10
+B-173,Meditations,C-06,L-05,P-42,A-66,7
+B-174,Beyond Good and Evil,C-06,L-01,P-40,A-180,3
+B-175,Chase Me (Paris Nights #2),C-07,L-02,P-24,A-263,10
+B-176,Black Dust,C-07,L-06,P-30,A-53,6
+B-177,Her Backup Boyfriend (The Sorensen Family #1),C-07,L-01,P-03,A-46,8
+B-178,First and First (Five Boroughs #3),C-07,L-05,P-43,A-162,1
+B-179,Fifty Shades Darker (Fifty Shades #2),C-07,L-07,P-57,A-46,2
+B-180,The Wedding Dress,C-07,L-06,P-44,A-197,3
+B-181,Suddenly in Love (Lake Haven #1),C-07,L-08,P-10,A-207,6
+B-182,Something More Than This,C-07,L-04,P-02,A-200,5
+B-183,Doing It Over (Most Likely To #1),C-07,L-02,P-51,A-161,8
+B-184,The Wedding Pact (The O'Malleys #2),C-07,L-07,P-40,A-205,8
+B-185,Hold Your Breath (Search and Rescue #1),C-07,L-01,P-45,A-90,9
+B-186,Dirty (Dive Bar #1),C-07,L-08,P-15,A-241,10
+B-187,Take Me Home Tonight (Rock Star Romance #3),C-07,L-04,P-28,A-170,3
+B-188,Off the Hook (Fishing for Trouble #1),C-07,L-05,P-16,A-51,10
+B-189,A Gentleman's Position (Society of Gentlemen #3),C-07,L-01,P-46,A-195,8
+B-190,"Sit, Stay, Love",C-07,L-04,P-09,A-179,10
+B-191,A Girl's Guide to Moving On (New Beginnings #2),C-07,L-03,P-37,A-340,8
+B-192,The Perfect Play (Play by Play #1),C-07,L-08,P-26,A-160,7
+B-193,Dark Lover (Black Dagger Brotherhood #1),C-07,L-06,P-20,A-70,3
+B-194,Changing the Game (Play by Play #2),C-07,L-01,P-16,A-112,2
+B-195,A Walk to Remember,C-07,L-02,P-11,A-298,5
+B-196,The Purest Hook (Second Circle Tattoos #3),C-07,L-08,P-03,A-74,3
+B-197,The Obsession,C-07,L-01,P-57,A-225,9
+B-198,Reservations for Two,C-07,L-06,P-38,A-100,9
+B-199,Best of My Love (Fool's Gold #20),C-07,L-04,P-54,A-21,2
+B-200,Where Lightning Strikes (Bleeding Stars #3),C-07,L-07,P-52,A-116,4
+B-201,This One Moment (Pushing Limits #1),C-07,L-05,P-53,A-161,5
+B-202,"Rhythm, Chord & Malykhin",C-07,L-03,P-12,A-289,10
+B-203,My Perfect Mistake (Over the Top #1),C-07,L-05,P-15,A-212,2
+B-204,Listen to Me (Fusion #1),C-07,L-04,P-51,A-272,9
+B-205,Imperfect Harmony,C-07,L-06,P-02,A-43,5
+B-206,Fighting Fate (Fighting #6),C-07,L-02,P-41,A-285,8
+B-207,Deep Under (Walker Security #1),C-07,L-04,P-55,A-73,4
+B-208,Charity's Cross (Charles Towne Belles #4),C-07,L-07,P-20,A-15,3
+B-209,Bounty (Colorado Mountain #7),C-07,L-06,P-30,A-76,3
+B-210,I Had a Nice Time And Other Lies...: How to find love & sh*t like that,C-08,L-04,P-14,A-49,7
+B-211,Will You Won't You Want Me?,C-08,L-08,P-05,A-326,8
+B-212,Keep Me Posted,C-08,L-01,P-48,A-318,7
+B-213,Grey (Fifty Shades #4),C-08,L-06,P-54,A-52,10
+B-214,Meternity,C-08,L-06,P-53,A-99,3
+B-215,Some Women,C-08,L-06,P-58,A-281,10
+B-216,Shopaholic Ties the Knot (Shopaholic #3),C-08,L-06,P-10,A-349,1
+B-217,Can You Keep a Secret?,C-08,L-06,P-35,A-272,4
+B-218,Twenties Girl,C-08,L-01,P-53,A-87,9
+B-219,The Undomestic Goddess,C-08,L-08,P-59,A-272,3
+B-220,The Nanny Diaries (Nanny #1),C-08,L-05,P-42,A-156,8
+B-221,The Devil Wears Prada (The Devil Wears Prada #1),C-08,L-06,P-14,A-119,9
+B-222,Something Borrowed (Darcy & Rachel #1),C-08,L-01,P-55,A-182,6
+B-223,Something Blue (Darcy & Rachel #2),C-08,L-06,P-22,A-353,4
+B-224,I've Got Your Number,C-08,L-03,P-48,A-228,10
+B-225,The Edge of Reason (Bridget Jones #2),C-08,L-08,P-19,A-06,8
+B-226,Bridget Jones's Diary (Bridget Jones #1),C-08,L-04,P-16,A-233,3
+B-227,Soumission,C-09,L-06,P-59,A-284,10
+B-228,Private Paris (Private #10),C-09,L-06,P-42,A-40,4
+B-229,"We Love You, Charlie Freeman",C-09,L-04,P-07,A-242,3
+B-230,Thirst,C-09,L-05,P-10,A-301,7
+B-231,The Murder That Never Was (Forensic Instincts #5),C-09,L-08,P-21,A-85,1
+B-232,Tuesday Nights in 1980,C-09,L-05,P-58,A-267,3
+B-233,The Vacationers,C-09,L-04,P-10,A-338,2
+B-234,The Regional Office Is Under Attack!,C-09,L-05,P-18,A-262,4
+B-235,Finders Keepers (Bill Hodges Trilogy #2),C-09,L-06,P-34,A-276,5
+B-236,The Time Keeper,C-09,L-05,P-34,A-125,9
+B-237,The Testament of Mary,C-09,L-07,P-52,A-238,6
+B-238,The First Hostage (J.B. Collins #2),C-09,L-05,P-15,A-286,8
+B-239,Take Me with You,C-09,L-01,P-17,A-19,1
+B-240,Still Life with Bread Crumbs,C-09,L-06,P-42,A-116,1
+B-241,Shtum,C-09,L-07,P-43,A-323,3
+B-242,My Name Is Lucy Barton,C-09,L-01,P-34,A-188,8
+B-243,My Mrs. Brown,C-09,L-01,P-33,A-103,9
+B-244,Mr. Mercedes (Bill Hodges Trilogy #1),C-09,L-02,P-40,A-231,7
+B-245,I Am Pilgrim (Pilgrim #1),C-09,L-05,P-48,A-80,7
+B-246,Eligible (The Austen Project #4),C-09,L-03,P-05,A-233,7
+B-247,Eight Hundred Grapes,C-09,L-02,P-25,A-25,9
+B-248,Dear Mr. Knightley,C-09,L-05,P-24,A-13,1
+B-249,Cometh the Hour (The Clifton Chronicles #6),C-09,L-08,P-50,A-291,7
+B-250,Balloon Animals,C-09,L-03,P-50,A-80,5
+B-251,A Man Called Ove,C-09,L-01,P-09,A-231,1
+B-252,The Silent Sister (Riley MacPherson #1),C-09,L-07,P-33,A-246,8
+B-253,The Dinner Party,C-09,L-01,P-53,A-293,9
+B-254,The Improbability of Love,C-09,L-08,P-45,A-184,9
+B-255,Mothering Sunday,C-09,L-03,P-43,A-245,6
+B-256,Lies and Other Acts of Love,C-09,L-06,P-44,A-352,7
+B-257,Daredevils,C-09,L-01,P-04,A-341,4
+B-258,11/22/63,C-09,L-03,P-49,A-83,4
+B-259,The Shack,C-09,L-02,P-45,A-17,5
+B-260,The High Mountains of Portugal,C-09,L-04,P-09,A-33,6
+B-261,Miller's Valley,C-09,L-06,P-37,A-140,10
+B-262,Hystopia: A Novel,C-09,L-04,P-39,A-167,8
+B-263,The Bourne Identity (Jason Bourne #1),C-09,L-02,P-59,A-80,6
+B-264,Sister Dear,C-09,L-04,P-30,A-286,6
+B-265,Memoirs of a Geisha,C-09,L-04,P-34,A-42,3
+B-266,Me Before You (Me Before You #1),C-09,L-03,P-41,A-303,9
+B-267,Deception Point,C-09,L-07,P-06,A-287,10
+B-268,The Little Paris Bookshop,C-09,L-04,P-08,A-61,7
+B-269,The Firm,C-09,L-05,P-49,A-107,9
+B-270,The Expatriates,C-09,L-07,P-09,A-31,10
+B-271,Siddhartha,C-09,L-05,P-12,A-329,2
+B-272,Last One Home (New Beginnings #1),C-09,L-03,P-11,A-10,2
+B-273,Digital Fortress,C-09,L-05,P-04,A-84,5
+B-274,Atlas Shrugged,C-09,L-03,P-28,A-334,5
+B-275,Three-Martini Lunch,C-09,L-01,P-38,A-171,4
+B-276,The Nightingale,C-09,L-04,P-07,A-81,9
+B-277,The Infinities,C-09,L-05,P-02,A-236,3
+B-278,The Husband's Secret,C-09,L-06,P-08,A-73,1
+B-279,The Da Vinci Code (Robert Langdon #2),C-09,L-08,P-30,A-123,4
+B-280,The Art of Fielding,C-09,L-05,P-19,A-81,3
+B-281,Lila (Gilead #3),C-09,L-08,P-14,A-184,10
+B-282,Jurassic Park (Jurassic Park #1),C-09,L-05,P-54,A-99,7
+B-283,Inferno (Robert Langdon #4),C-09,L-06,P-26,A-365,5
+B-284,Crazy Rich Asians (Crazy Rich Asians #1),C-09,L-02,P-34,A-250,3
+B-285,Big Little Lies,C-09,L-07,P-58,A-158,3
+B-286,The Course of Love,C-09,L-03,P-13,A-174,7
+B-287,When I'm Gone,C-09,L-06,P-54,A-226,4
+B-288,The Silent Wife,C-09,L-02,P-49,A-195,5
+B-289,The Bette Davis Club,C-09,L-06,P-44,A-285,7
+B-290,Kitchens of the Great Midwest,C-09,L-06,P-42,A-337,6
+B-291,Bright Lines,C-09,L-01,P-31,A-256,7
+B-292,Birdsong: A Story in Pictures,C-10,L-06,P-17,A-157,9
+B-293,The Bear and the Piano,C-10,L-04,P-41,A-298,4
+B-294,The Secret of Dreadwillow Carse,C-10,L-03,P-45,A-144,9
+B-295,The White Cat and the Monk: A Retelling of the Poem âPangur BÃ¡nâ,C-10,L-04,P-29,A-179,6
+B-296,Little Red,C-10,L-07,P-54,A-258,9
+B-297,Walt Disney's Alice in Wonderland,C-10,L-05,P-32,A-09,5
+B-298,Twenty Yawns,C-10,L-08,P-16,A-278,7
+B-299,Rain Fish,C-10,L-06,P-01,A-291,8
+B-300,Once Was a Time,C-10,L-06,P-45,A-18,5
+B-301,Luis Paints the World,C-10,L-08,P-49,A-68,7
+B-302,Nap-a-Roo,C-10,L-05,P-35,A-117,1
+B-303,The Whale,C-10,L-05,P-58,A-11,6
+B-304,"Shrunken Treasures: Literary Classics, Short, Sweet, and Silly",C-10,L-07,P-25,A-184,7
+B-305,Raymie Nightingale,C-10,L-03,P-43,A-79,8
+B-306,Playing from the Heart,C-10,L-04,P-37,A-321,7
+B-307,Maybe Something Beautiful: How Art Transformed a Neighborhood,C-10,L-03,P-40,A-100,3
+B-308,The Wild Robot,C-10,L-03,P-39,A-26,3
+B-309,The Thing About Jellyfish,C-10,L-07,P-09,A-213,7
+B-310,The Lonely Ones,C-10,L-07,P-35,A-131,3
+B-311,The Day the Crayons Came Home (Crayons),C-10,L-03,P-36,A-236,4
+B-312,The Cat in the Hat (Beginner Books B-1),C-10,L-05,P-55,A-177,6
+B-313,Red: The True Story of Red Riding Hood,C-10,L-07,P-57,A-322,7
+B-314,Horrible Bear!,C-10,L-05,P-22,A-228,1
+B-315,Green Eggs and Ham (Beginner Books B-16),C-10,L-03,P-40,A-274,7
+B-316,Counting Thyme,C-10,L-04,P-22,A-59,3
+B-317,Are We There Yet?,C-10,L-04,P-18,A-202,4
+B-318,Diary of a Minecraft Zombie Book 1: A Scare of a Dare (An Unofficial Minecraft Book),C-10,L-04,P-09,A-130,6
+B-319,Matilda,C-10,L-06,P-23,A-310,10
+B-320,Charlie and the Chocolate Factory (Charlie Bucket #1),C-10,L-05,P-59,A-201,5
+B-321,"Don't Be a Jerk: And Other Practical Advice from Dogen, Japan's Greatest Zen Master",C-11,L-04,P-37,A-290,8
+B-322,You Are What You Love: The Spiritual Power of Habit,C-11,L-04,P-11,A-282,6
+B-323,God: The Most Unpleasant Character in All Fiction,C-11,L-06,P-30,A-349,4
+B-324,The Book of Mormon,C-11,L-04,P-22,A-260,1
+B-325,"A History of God: The 4,000-Year Quest of Judaism, Christianity, and Islam",C-11,L-03,P-22,A-20,1
+B-326,The Bhagavad Gita,C-11,L-05,P-04,A-163,8
+B-327,Choosing Our Religion: The Spiritual Lives of America's Nones,C-11,L-02,P-22,A-206,3
+B-328,Worlds Elsewhere: Journeys Around Shakespeareâs Globe,C-12,L-06,P-14,A-106,8
+B-329,The Five Love Languages: How to Express Heartfelt Commitment to Your Mate,C-12,L-03,P-15,A-186,6
+B-330,Reasons to Stay Alive,C-12,L-06,P-23,A-37,2
+B-331,#HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.,C-12,L-05,P-15,A-07,2
+B-332,"Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness",C-12,L-05,P-56,A-320,8
+B-333,Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity,C-12,L-07,P-21,A-141,1
+B-334,The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing,C-12,L-06,P-12,A-213,1
+B-335,The Gutsy Girl: Escapades for Your Life of Epic Adventure,C-12,L-01,P-04,A-269,8
+B-336,The Electric Pencil: Drawings from Inside State Hospital No. 3,C-12,L-02,P-21,A-294,9
+B-337,Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up,C-12,L-01,P-05,A-177,8
+B-338,Reskilling America: Learning to Labor in the Twenty-First Century,C-12,L-03,P-56,A-160,4
+B-339,In the Country We Love: My Family Divided,C-12,L-05,P-46,A-299,2
+B-340,Everydata: The Misinformation Hidden in the Little Data You Consume Every Day,C-12,L-04,P-47,A-186,5
+B-341,Call the Nurse: True Stories of a Country Nurse on a Scottish Isle,C-12,L-01,P-18,A-151,6
+B-342,Algorithms to Live By: The Computer Science of Human Decisions,C-12,L-08,P-49,A-196,6
+B-343,The Power of Now: A Guide to Spiritual Enlightenment,C-12,L-03,P-04,A-196,7
+B-344,The Omnivore's Dilemma: A Natural History of Four Meals,C-12,L-04,P-31,A-170,4
+B-345,The Genius of Birds,C-12,L-07,P-55,A-181,5
+B-346,The Artist's Way: A Spiritual Path to Higher Creativity,C-12,L-02,P-60,A-169,7
+B-347,So You've Been Publicly Shamed,C-12,L-01,P-55,A-113,9
+B-348,"Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead",C-12,L-03,P-07,A-288,3
+B-349,Big Magic: Creative Living Beyond Fear,C-12,L-04,P-26,A-107,6
+B-350,Becoming Wise: An Inquiry into the Mystery and Art of Living,C-12,L-01,P-35,A-211,8
+B-351,Agnostic: A Spirited Manifesto,C-12,L-02,P-59,A-334,10
+B-352,Whole Lotta Creativity Going On: 60 Fun and Unusual Exercises to Awaken and Strengthen Your Creativity,C-12,L-07,P-27,A-244,10
+B-353,What's It Like in Space?: Stories from Astronauts Who've Been There,C-12,L-01,P-30,A-209,6
+B-354,The Year of Magical Thinking,C-12,L-01,P-60,A-290,6
+B-355,The Literature Book (Big Ideas Simply Explained),C-12,L-08,P-24,A-93,6
+B-356,The Bad-Ass Librarians of Timbuktu: And Their Race to Save the Worldâs Most Precious Manuscripts,C-12,L-01,P-15,A-97,3
+B-357,Swell: A Year of Waves,C-12,L-03,P-10,A-10,8
+B-358,No Dream Is Too High: Life Lessons From a Man Who Walked on the Moon,C-12,L-02,P-11,A-73,7
+B-359,Looking for Lovely: Collecting the Moments that Matter,C-12,L-03,P-52,A-313,4
+B-360,Let It Out: A Journey Through Journaling,C-12,L-03,P-14,A-21,9
+B-361,Hamilton: The Revolution,C-12,L-03,P-39,A-236,1
+B-362,"Far & Away: Places on the Brink of Change: Seven Continents, Twenty-Five Years",C-12,L-07,P-20,A-193,3
+B-363,"Eaternity: More than 150 Deliciously Easy Vegan Recipes for a Long, Healthy, Satisfied, Joyful Life",C-12,L-01,P-46,A-342,9
+B-364,Buying In: The Secret Dialogue Between What We Buy and Who We Are,C-12,L-07,P-32,A-298,1
+B-365,Brain on Fire: My Month of Madness,C-12,L-02,P-14,A-338,3
+B-366,Abstract City,C-12,L-05,P-07,A-262,6
+B-367,13 Hours: The Inside Account of What Really Happened In Benghazi,C-12,L-04,P-13,A-18,2
+B-368,The Lonely City: Adventures in the Art of Being Alone,C-12,L-05,P-19,A-246,10
+B-369,The Diary of a Young Girl,C-12,L-01,P-26,A-14,7
+B-370,Snatched: How A Drug Queen Went Undercover for the DEA and Was Kidnapped By Colombian Guerillas,C-12,L-07,P-28,A-186,8
+B-371,Furiously Happy: A Funny Book About Horrible Things,C-12,L-01,P-12,A-53,8
+B-372,"The Sleep Revolution: Transforming Your Life, One Night at a Time",C-12,L-04,P-16,A-244,9
+B-373,"Mother, Can You Not?",C-12,L-05,P-24,A-122,6
+B-374,A Mother's Reckoning: Living in the Aftermath of Tragedy,C-12,L-04,P-14,A-51,4
+B-375,"10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works",C-12,L-05,P-07,A-110,1
+B-376,Chernobyl 01:23:40: The Incredible True Story of the World's Worst Nuclear Disaster,C-12,L-02,P-11,A-316,2
+B-377,"Zero to One: Notes on Startups, or How to Build the Future",C-12,L-03,P-31,A-323,8
+B-378,Why Not Me?,C-12,L-05,P-45,A-130,5
+B-379,When Breath Becomes Air,C-12,L-03,P-49,A-207,7
+B-380,"The Midnight Assassin: Panic, Scandal, and the Hunt for America's First Serial Killer",C-12,L-01,P-08,A-260,10
+B-381,Smarter Faster Better: The Secrets of Being Productive in Life and Business,C-12,L-07,P-59,A-147,5
+B-382,Rising Strong,C-12,L-07,P-34,A-114,9
+B-383,Man's Search for Meaning,C-12,L-04,P-35,A-95,1
+B-384,"Love That Boy: What Two Presidents, Eight Road Trips, and My Son Taught Me About a Parent's Expectations",C-12,L-02,P-20,A-09,4
+B-385,Living Forward: A Proven Plan to Stop Drifting and Get the Life You Want,C-12,L-07,P-32,A-72,7
+B-386,I Will Find You,C-12,L-08,P-10,A-161,10
+B-387,Brazen: The Courage to Find the You That's Been Hiding,C-12,L-02,P-20,A-85,1
+B-388,Between the World and Me,C-12,L-01,P-15,A-170,4
+B-389,Being Mortal: Medicine and What Matters in the End,C-12,L-02,P-46,A-325,7
+B-390,"A Murder Over a Girl: Justice, Gender, Junior High",C-12,L-04,P-42,A-31,9
+B-391,For the Love: Fighting for Grace in a World of Impossible Standards,C-12,L-02,P-24,A-94,8
+B-392,Finding God in the Ruins: How God Redeems Pain,C-12,L-08,P-04,A-34,6
+B-393,The Man Who Mistook His Wife for a Hat and Other Clinical Tales,C-12,L-04,P-22,A-169,2
+B-394,In Cold Blood,C-12,L-05,P-48,A-139,7
+B-395,"Girl, Interrupted",C-12,L-01,P-17,A-309,5
+B-396,Why Save the Bankers?: And Other Essays on Our Economic and Political Crisis,C-12,L-04,P-58,A-87,2
+B-397,Talking to Girls About Duran Duran: One Young Man's Quest for True Love and a Cooler Haircut,C-12,L-02,P-32,A-147,10
+B-398,My Mother Was Nuts,C-12,L-02,P-31,A-109,4
+B-399,"Data, A Love Story: How I Gamed Online Dating to Meet My Match",C-12,L-04,P-21,A-340,10
+B-400,The Jazz of Physics: The Secret Link Between Music and the Structure of the Universe,C-12,L-03,P-23,A-06,6
+B-401,The Gunning of America: Business and the Making of American Gun Culture,C-12,L-06,P-39,A-329,10
+B-402,The Geography of Bliss: One Grump's Search for the Happiest Places in the World,C-12,L-08,P-52,A-85,10
+B-403,God Is Not Great: How Religion Poisons Everything,C-12,L-05,P-27,A-264,10
+B-404,We the People: The Modern-Day Figures Who Have Reshaped and Affirmed the Founding Fathers' Vision of America,C-12,L-02,P-32,A-238,7
+B-405,Very Good Lives: The Fringe Benefits of Failure and the Importance of Imagination,C-12,L-07,P-48,A-121,8
+B-406,"Unstuffed: Decluttering Your Home, Mind, and Soul",C-12,L-07,P-33,A-144,10
+B-407,Under the Banner of Heaven: A Story of Violent Faith,C-12,L-08,P-55,A-180,7
+B-408,"Trespassing Across America: One Man's Epic, Never-Done-Before (and Sort of Illegal) Hike Across the Heartland",C-12,L-05,P-47,A-224,2
+B-409,The Name of God is Mercy,C-12,L-03,P-08,A-138,3
+B-410,Stiff: The Curious Lives of Human Cadavers,C-12,L-03,P-40,A-347,10
+B-411,Spilled Milk: Based on a True Story,C-12,L-04,P-48,A-200,5
+B-412,"Rise of the Rocket Girls: The Women Who Propelled Us, from Missiles to the Moon to Mars",C-12,L-03,P-01,A-104,9
+B-413,Outliers: The Story of Success,C-12,L-07,P-12,A-106,1
+B-414,Notes from a Small Island (Notes From a Small Island #1),C-12,L-04,P-30,A-252,1
+B-415,Night (The Night Trilogy #1),C-12,L-02,P-09,A-135,3
+B-416,"Miracles from Heaven: A Little Girl, Her Journey to Heaven, and Her Amazing Story of Healing",C-12,L-02,P-34,A-268,4
+B-417,Letter to a Christian Nation,C-12,L-03,P-16,A-76,8
+B-418,Let's Pretend This Never Happened: A Mostly True Memoir,C-12,L-07,P-17,A-113,8
+B-419,It's Never Too Late to Begin Again: Discovering Creativity and Meaning at Midlife and Beyond,C-12,L-03,P-17,A-269,2
+B-420,Into the Wild,C-12,L-01,P-20,A-88,6
+B-421,"In the Garden of Beasts: Love, Terror, and an American Family in Hitler's Berlin",C-12,L-03,P-11,A-121,10
+B-422,I Am Malala: The Girl Who Stood Up for Education and Was Shot by the Taliban,C-12,L-03,P-38,A-116,9
+B-423,Gratitude,C-12,L-05,P-53,A-94,4
+B-424,Disrupted: My Misadventure in the Start-Up Bubble,C-12,L-07,P-56,A-57,6
+B-425,Brave Enough,C-12,L-05,P-57,A-347,7
+B-426,"Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen",C-12,L-01,P-35,A-244,10
+B-427,Blink: The Power of Thinking Without Thinking,C-12,L-03,P-08,A-244,9
+B-428,Black Flags: The Rise of ISIS,C-12,L-07,P-42,A-115,6
+B-429,Are We Smart Enough to Know How Smart Animals Are?,C-12,L-01,P-09,A-239,7
+B-430,A Walk in the Woods: Rediscovering America on the Appalachian Trail,C-12,L-04,P-59,A-194,6
+B-431,"The Suffragettes (Little Black Classics, #96)",C-12,L-05,P-40,A-192,9
+B-432,Kindle Paperwhite User's Guide,C-12,L-05,P-13,A-01,3
+B-433,H is for Hawk,C-12,L-03,P-47,A-215,2
+B-434,Travels with Charley: In Search of America,C-12,L-05,P-20,A-123,10
+B-435,The Tumor,C-12,L-07,P-32,A-122,4
+B-436,The End of the Jesus Era (An Investigation #1),C-12,L-05,P-53,A-263,3
+B-437,"Eat, Pray, Love",C-12,L-05,P-57,A-310,9
+B-438,Rip it Up and Start Again,C-13,L-03,P-29,A-215,10
+B-439,"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",C-13,L-03,P-55,A-245,3
+B-440,How Music Works,C-13,L-01,P-11,A-185,9
+B-441,Love Is a Mix Tape (Music #1),C-13,L-02,P-23,A-128,7
+B-442,Please Kill Me: The Uncensored Oral History of Punk,C-13,L-05,P-21,A-350,7
+B-443,Kill 'Em and Leave: Searching for James Brown and the American Soul,C-13,L-03,P-59,A-42,2
+B-444,"Chronicles, Vol. 1",C-13,L-03,P-47,A-243,5
+B-445,This Is Your Brain on Music: The Science of a Human Obsession,C-13,L-01,P-50,A-291,2
+B-446,"Orchestra of Exiles: The Story of Bronislaw Huberman, the Israel Philharmonic, and the One Thousand Jews He Saved from Nazi Horrors",C-13,L-03,P-26,A-06,9
+B-447,No One Here Gets Out Alive,C-13,L-05,P-07,A-230,1
+B-448,Life,C-13,L-04,P-57,A-215,3
+B-449,Old Records Never Die: One Man's Quest for His Vinyl and His Past,C-13,L-05,P-13,A-286,5
+B-450,Forever Rockers (The Rocker #12),C-13,L-02,P-54,A-229,1
+B-451,Mesaerion: The Best Science Fiction Stories 1800-1849,C-14,L-06,P-23,A-273,10
+B-452,Join,C-14,L-01,P-08,A-118,5
+B-453,"William Shakespeare's Star Wars: Verily, A New Hope (William Shakespeare's Star Wars #4)",C-14,L-08,P-31,A-43,2
+B-454,The Project,C-14,L-07,P-28,A-280,1
+B-455,Soft Apocalypse,C-14,L-03,P-30,A-225,8
+B-456,Sleeping Giants (Themis Files #1),C-14,L-02,P-48,A-286,6
+B-457,Arena,C-14,L-07,P-12,A-334,10
+B-458,Foundation (Foundation (Publication Order) #1),C-14,L-01,P-14,A-355,8
+B-459,The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy #2),C-14,L-03,P-49,A-42,10
+B-460,Ready Player One,C-14,L-05,P-39,A-311,3
+B-461,"Life, the Universe and Everything (Hitchhiker's Guide to the Galaxy #3)",C-14,L-06,P-08,A-318,1
+B-462,Dune (Dune #1),C-14,L-07,P-24,A-115,4
+B-463,Do Androids Dream of Electric Sheep? (Blade Runner #1),C-14,L-03,P-20,A-287,3
+B-464,Three Wishes (River of Time: California #1),C-14,L-03,P-30,A-280,9
+B-465,The Last Girl (The Dominion Trilogy #1),C-14,L-01,P-59,A-140,2
+B-466,Having the Barbarian's Baby (Ice Planet Barbarians #7.5),C-14,L-06,P-24,A-75,4
+B-467,The Book of Basketball: The NBA According to The Sports Guy,C-15,L-08,P-52,A-237,3
+B-468,"Friday Night Lights: A Town, a Team, and a Dream",C-15,L-06,P-56,A-358,10
+B-469,Sugar Rush (Offensive Line #2),C-15,L-05,P-45,A-93,9
+B-470,Settling the Score (The Summer Games #1),C-15,L-05,P-21,A-199,2
+B-471,Icing (Aces Hockey #2),C-15,L-08,P-55,A-315,7
+B-472,Unicorn Tracks,C-16,L-02,P-45,A-169,4
+B-473,"Saga, Volume 6 (Saga (Collected Editions) #6)",C-16,L-05,P-25,A-37,9
+B-474,Princess Between Worlds (Wide-Awake Princess #5),C-16,L-02,P-33,A-138,4
+B-475,Masks and Shadows,C-16,L-02,P-32,A-133,3
+B-476,Crown of Midnight (Throne of Glass #2),C-16,L-08,P-51,A-182,9
+B-477,"Avatar: The Last Airbender: Smoke and Shadow, Part 3 (Smoke and Shadow #3)",C-16,L-08,P-42,A-286,6
+B-478,A Court of Thorns and Roses (A Court of Thorns and Roses #1),C-16,L-06,P-24,A-167,7
+B-479,Throne of Glass (Throne of Glass #1),C-16,L-06,P-58,A-352,8
+B-480,The Glittering Court (The Glittering Court #1),C-16,L-02,P-41,A-291,9
+B-481,Hollow City (Miss Peregrineâs Peculiar Children #2),C-16,L-05,P-16,A-210,9
+B-482,The Star-Touched Queen,C-16,L-05,P-35,A-319,10
+B-483,The Hidden Oracle (The Trials of Apollo #1),C-16,L-07,P-52,A-106,4
+B-484,The Bane Chronicles (The Bane Chronicles #1-11),C-16,L-08,P-02,A-223,4
+B-485,Island of Dragons (Unwanteds #7),C-16,L-07,P-31,A-242,1
+B-486,Demigods & Magicians: Percy and Annabeth Meet the Kanes (Percy Jackson & Kane Chronicles Crossover #1-3),C-16,L-08,P-04,A-312,2
+B-487,City of Glass (The Mortal Instruments #3),C-16,L-01,P-37,A-268,9
+B-488,Searching for Meaning in Gailana,C-16,L-05,P-33,A-153,4
+B-489,The Star-Touched Queen,C-16,L-06,P-59,A-326,6
+B-490,A Shard of Ice (The Black Symphony Saga #1),C-16,L-03,P-54,A-59,10
+B-491,King's Folly (The Kinsman Chronicles #1),C-16,L-02,P-26,A-109,5
+B-492,Every Heart a Doorway (Every Heart A Doorway #1),C-16,L-07,P-05,A-54,10
+B-493,A Gathering of Shadows (Shades of Magic #2),C-16,L-03,P-24,A-106,8
+B-494,The Raven Boys (The Raven Cycle #1),C-16,L-06,P-08,A-267,7
+B-495,The False Prince (The Ascendance Trilogy #1),C-16,L-07,P-47,A-241,5
+B-496,Tell the Wind and Fire,C-16,L-01,P-05,A-227,1
+B-497,A Feast for Crows (A Song of Ice and Fire #4),C-16,L-07,P-53,A-330,8
+B-498,The Demonists (Demonist #1),C-16,L-03,P-15,A-200,9
+B-499,The Beast (Black Dagger Brotherhood #14),C-16,L-01,P-29,A-361,4
+B-500,Paper and Fire (The Great Library #2),C-16,L-06,P-53,A-198,10
+B-501,Harry Potter and the Order of the Phoenix (Harry Potter #5),C-16,L-03,P-23,A-358,10
+B-502,Harry Potter and the Half-Blood Prince (Harry Potter #6),C-16,L-06,P-44,A-44,6
+B-503,Harry Potter and the Chamber of Secrets (Harry Potter #2),C-16,L-08,P-35,A-323,2
+B-504,The Rose & the Dagger (The Wrath and the Dawn #2),C-16,L-03,P-34,A-354,10
+B-505,Soldier (Talon #3),C-16,L-04,P-31,A-101,8
+B-506,Midnight Riot (Peter Grant/ Rivers of London - books #1),C-16,L-07,P-06,A-175,5
+B-507,Heir to the Sky,C-16,L-07,P-15,A-240,9
+B-508,Eragon (The Inheritance Cycle #1),C-16,L-01,P-55,A-55,9
+B-509,Darkfever (Fever #1),C-16,L-08,P-52,A-130,10
+B-510,Ash,C-16,L-06,P-44,A-10,1
+B-511,A Storm of Swords (A Song of Ice and Fire #3),C-16,L-04,P-34,A-76,3
+B-512,Vampire Girl (Vampire Girl #1),C-16,L-01,P-20,A-90,9
+B-513,The Silent Twin (Detective Jennifer Knight #3),C-16,L-07,P-21,A-40,7
+B-514,The Mirror & the Maze (The Wrath and the Dawn #1.5),C-16,L-05,P-35,A-229,5
+B-515,Sister Sable (The Mad Queen #1),C-16,L-03,P-30,A-287,8
+B-516,Shadow Rites (Jane Yellowrock #10),C-16,L-07,P-34,A-207,2
+B-517,Origins (Alphas 0.5),C-16,L-04,P-26,A-60,4
+B-518,One Second (Seven #7),C-16,L-06,P-22,A-341,8
+B-519,Myriad (Prentor #1),C-16,L-07,P-07,A-307,4
+B-520,Without Borders (Wanderlove #1),C-17,L-03,P-13,A-99,5
+B-521,The Mistake (Off-Campus #2),C-17,L-07,P-12,A-267,2
+B-522,The Matchmaker's Playbook (Wingmen Inc. #1),C-17,L-07,P-25,A-53,4
+B-523,The Hook Up (Game On #1),C-17,L-05,P-19,A-331,9
+B-524,Shameless,C-17,L-04,P-27,A-179,4
+B-525,Off Sides (Off #1),C-17,L-07,P-45,A-05,5
+B-526,The Requiem Red,C-18,L-02,P-42,A-137,6
+B-527,Set Me Free,C-18,L-08,P-54,A-140,9
+B-528,The Natural History of Us (The Fine Art of Pretending #2),C-18,L-05,P-11,A-42,3
+B-529,Obsidian (Lux #1),C-18,L-07,P-30,A-50,5
+B-530,Burning,C-18,L-02,P-28,A-118,2
+B-531,A Fierce and Subtle Poison,C-18,L-04,P-14,A-31,5
+B-532,Scarlett Epstein Hates It Here,C-18,L-05,P-17,A-323,6
+B-533,"Nightingale, Sing",C-18,L-04,P-46,A-330,9
+B-534,Library of Souls (Miss Peregrineâs Peculiar Children #3),C-18,L-05,P-01,A-347,5
+B-535,Frostbite (Vampire Academy #2),C-18,L-08,P-23,A-02,10
+B-536,Wild Swans,C-18,L-05,P-28,A-199,5
+B-537,Until Friday Night (The Field Party #1),C-18,L-08,P-41,A-241,7
+B-538,This Is Where It Ends,C-18,L-04,P-05,A-116,1
+B-539,The Darkest Lie,C-18,L-07,P-54,A-194,1
+B-540,My Kind of Crazy,C-18,L-07,P-47,A-132,10
+B-541,Don't Get Caught,C-18,L-07,P-28,A-268,6
+B-542,Catching Jordan (Hundred Oaks),C-18,L-03,P-60,A-47,9
+B-543,Aristotle and Dante Discover the Secrets of the Universe (Aristotle and Dante Discover the Secrets of the Universe #1),C-18,L-01,P-19,A-67,7
+B-544,The Epidemic (The Program 0.6),C-18,L-07,P-08,A-289,4
+B-545,Stars Above (The Lunar Chronicles #4.5),C-18,L-01,P-59,A-86,7
+B-546,No Love Allowed (Dodge Cove #1),C-18,L-01,P-30,A-244,5
+B-547,"Exit, Pursued by a Bear",C-18,L-08,P-39,A-355,10
+B-548,The Alien Club,C-18,L-06,P-23,A-74,1
+B-549,Don't Forget Steven,C-18,L-06,P-29,A-223,9
+B-550,South of Sunshine,C-18,L-06,P-16,A-166,5
+B-551,My Life Next Door (My Life Next Door ),C-18,L-03,P-31,A-246,6
+B-552,Future Shock (Future Shock #1),C-18,L-05,P-35,A-118,5
+B-553,Nightstruck: A Novel,C-18,L-02,P-40,A-332,5
+B-554,Tell the Wolves I'm Home,C-18,L-02,P-16,A-179,3
+B-555,"Will Grayson, Will Grayson (Will Grayson, Will Grayson)",C-18,L-02,P-21,A-203,2
+B-556,Where She Went (If I Stay #2),C-18,L-07,P-24,A-265,1
+B-557,Two Summers,C-18,L-05,P-53,A-214,8
+B-558,The Darkest Corners,C-18,L-04,P-25,A-128,3
+B-559,Tell Me Three Things,C-18,L-02,P-08,A-209,6
+B-560,Lola and the Boy Next Door (Anna and the French Kiss #2),C-18,L-04,P-13,A-242,9
+B-561,Kill the Boy Band,C-18,L-07,P-56,A-26,4
+B-562,Isla and the Happily Ever After (Anna and the French Kiss #3),C-18,L-03,P-43,A-97,10
+B-563,An Abundance of Katherines,C-18,L-07,P-05,A-333,8
+B-564,Harry Potter and the Prisoner of Azkaban (Harry Potter #3),C-18,L-02,P-03,A-288,7
+B-565,Walk the Edge (Thunder Road #2),C-18,L-07,P-30,A-214,4
+B-566,Two Boys Kissing,C-18,L-02,P-24,A-117,6
+B-567,The New Guy (and Other Senior Year Distractions),C-18,L-03,P-45,A-31,5
+B-568,"The Land of 10,000 Madonnas",C-18,L-01,P-13,A-157,8
+B-569,Scarlet (The Lunar Chronicles #2),C-18,L-06,P-27,A-306,1
+B-570,Legend (Legend #1),C-18,L-07,P-54,A-56,9
+B-571,Lady Renegades (Rebel Belle #3),C-18,L-06,P-20,A-202,2
+B-572,Golden (Heart of Dread #3),C-18,L-05,P-22,A-163,10
+B-573,Cinder (The Lunar Chronicles #1),C-18,L-07,P-24,A-227,9
+B-574,Boy Meets Boy,C-18,L-04,P-38,A-267,5
+B-575,Annie on My Mind,C-18,L-04,P-08,A-230,2
+B-576,New Moon (Twilight #2),C-18,L-05,P-26,A-130,4
+B-577,Girl Online On Tour (Girl Online #2),C-18,L-01,P-23,A-358,3
+B-578,The Haters,C-18,L-04,P-37,A-151,10
+B-579,The Art of Not Breathing,C-18,L-01,P-54,A-143,8
+B-580,The Most Perfect Thing: Inside (and Outside) a Bird's Egg,C-19,L-05,P-20,A-173,4
+B-581,Immunity: How Elie Metchnikoff Changed the Course of Modern Medicine,C-19,L-05,P-52,A-299,3
+B-582,Sorting the Beef from the Bull: The Science of Food Fraud Forensics,C-19,L-08,P-40,A-243,1
+B-583,Tipping Point for Planet Earth: How Close Are We to the Edge?,C-19,L-03,P-12,A-141,5
+B-584,"The Fabric of the Cosmos: Space, Time, and the Texture of Reality",C-19,L-06,P-05,A-45,9
+B-585,Diary of a Citizen Scientist: Chasing Tiger Beetles and Other New Ways of Engaging the World,C-19,L-04,P-39,A-97,8
+B-586,The Origin of Species,C-19,L-01,P-40,A-12,6
+B-587,The Grand Design,C-19,L-04,P-28,A-234,4
+B-588,Peak: Secrets from the New Science of Expertise,C-19,L-06,P-27,A-33,1
+B-589,"The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory",C-19,L-02,P-56,A-38,5
+B-590,"The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements",C-19,L-02,P-47,A-340,6
+B-591,"Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character",C-19,L-06,P-25,A-153,8
+B-592,Seven Brief Lessons on Physics,C-19,L-02,P-01,A-336,7
+B-593,The Selfish Gene,C-19,L-02,P-36,A-97,9
+B-594,A Light in the Attic,C-20,L-05,P-13,A-263,1
+B-595,The Black Maria,C-20,L-07,P-04,A-159,7
+B-596,Shakespeare's Sonnets,C-20,L-02,P-12,A-125,8
+B-597,Olio,C-20,L-02,P-16,A-345,4
+B-598,You can't bury them all: Poems,C-20,L-07,P-12,A-11,6
+B-599,Slow States of Collapse: Poems,C-20,L-06,P-31,A-335,10
+B-600,Untitled Collection: Sabbath Poems 2014,C-20,L-07,P-15,A-198,2
+B-601,Poems That Make Grown Women Cry,C-20,L-01,P-41,A-331,10
+B-602,Night Sky with Exit Wounds,C-20,L-06,P-01,A-192,5
+B-603,salt.,C-20,L-02,P-59,A-220,8
+B-604,"Quarter Life Poetry: Poems for the Young, Broke and Hangry",C-20,L-02,P-36,A-318,5
+B-605,Out of Print: City Lights Spotlight No. 14,C-20,L-03,P-54,A-357,9
+B-606,Les Fleurs du Mal,C-20,L-05,P-07,A-10,2
+B-607,Howl and Other Poems,C-20,L-01,P-07,A-207,8
+B-608,Leave This Song Behind: Teen Poetry at Its Best,C-20,L-02,P-41,A-51,7
+B-609,The Collected Poems of W.B. Yeats (The Collected Works of W.B. Yeats #1),C-20,L-08,P-56,A-29,3
+B-610,The Crossover,C-20,L-01,P-10,A-188,8
+B-611,Booked,C-20,L-07,P-22,A-246,10
+B-612,Twenty Love Poems and a Song of Despair,C-20,L-06,P-34,A-200,1
+B-613,"Vampire Knight, Vol. 1 (Vampire Knight #1)",C-21,L-01,P-36,A-100,7
+B-614,Wall and Piece,C-22,L-06,P-47,A-218,5
+B-615,Feathers: Displays of Brilliant Plumage,C-22,L-03,P-13,A-190,7
+B-616,Art and Fear: Observations on the Perils (and Rewards) of Artmaking,C-22,L-07,P-09,A-305,7
+B-617,The New Drawing on the Right Side of the Brain,C-22,L-02,P-45,A-136,3
+B-618,History of Beauty,C-22,L-04,P-38,A-188,2
+B-619,The Story of Art,C-22,L-07,P-60,A-35,5
+B-620,The Art Book,C-22,L-06,P-45,A-315,9
+B-621,Ways of Seeing,C-22,L-08,P-07,A-139,4
+B-622,The Lucifer Effect: Understanding How Good People Turn Evil,C-23,L-04,P-57,A-330,3
+B-623,The Golden Condom: And Other Essays on Love Lost and Found,C-23,L-05,P-28,A-131,9
+B-624,It Didn't Start with You: How Inherited Family Trauma Shapes Who We Are and How to End the Cycle,C-23,L-02,P-56,A-266,1
+B-625,An Unquiet Mind: A Memoir of Moods and Madness,C-23,L-07,P-30,A-113,2
+B-626,"Thinking, Fast and Slow",C-23,L-05,P-06,A-364,6
+B-627,Civilization and Its Discontents,C-23,L-07,P-01,A-297,9
+B-628,8 Keys to Mental Health Through Exercise,C-23,L-04,P-46,A-99,7
+B-629,The Argonauts,C-24,L-08,P-11,A-179,10
+B-630,M Train,C-24,L-03,P-09,A-12,9
+B-631,Lab Girl,C-24,L-02,P-57,A-162,4
+B-632,Approval Junkie: Adventures in Caring Too Much,C-24,L-01,P-08,A-05,4
+B-633,Running with Scissors,C-24,L-01,P-23,A-124,2
+B-634,Me Talk Pretty One Day,C-24,L-04,P-10,A-22,10
+B-635,Lust & Wonder,C-24,L-02,P-40,A-320,7
+B-636,Life Without a Recipe,C-24,L-07,P-12,A-94,4
+B-637,A Heartbreaking Work of Staggering Genius,C-24,L-01,P-40,A-13,7
+B-638,Catastrophic Happiness: Finding Joy in Childhood's Messy Years,C-25,L-05,P-04,A-341,7
+B-639,Fifty Shades Freed (Fifty Shades #3),C-26,L-02,P-01,A-165,9
+B-640,The Long Haul (Diary of a Wimpy Kid #9),C-27,L-04,P-37,A-120,2
+B-641,Old School (Diary of a Wimpy Kid #10),C-27,L-07,P-37,A-117,7
+B-642,I Know What I'm Doing -- and Other Lies I Tell Myself: Dispatches from a Life Under Construction,C-27,L-01,P-45,A-34,3
+B-643,"Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened",C-27,L-06,P-25,A-312,8
+B-644,Dress Your Family in Corduroy and Denim,C-27,L-02,P-10,A-223,4
+B-645,Toddlers Are A**holes: It's Not Your Fault,C-27,L-02,P-38,A-174,6
+B-646,When You Are Engulfed in Flames,C-27,L-05,P-35,A-192,6
+B-647,Naked,C-27,L-03,P-15,A-259,8
+B-648,"Lamb: The Gospel According to Biff, Christ's Childhood Pal",C-27,L-08,P-37,A-223,4
+B-649,Holidays on Ice,C-27,L-02,P-06,A-334,5
+B-650,Security,C-28,L-08,P-18,A-292,2
+B-651,Follow You Home,C-28,L-01,P-31,A-194,6
+B-652,The Loney,C-28,L-03,P-02,A-106,3
+B-653,Pet Sematary,C-28,L-05,P-53,A-288,5
+B-654,Doctor Sleep (The Shining #2),C-28,L-05,P-06,A-240,5
+B-655,Psycho: Sanitarium (Psycho #1.5),C-28,L-05,P-27,A-360,4
+B-656,Can You Keep a Secret? (Fear Street Relaunch #4),C-28,L-04,P-30,A-71,4
+B-657,Red Dragon (Hannibal Lecter #1),C-28,L-08,P-08,A-221,5
+B-658,Dracula the Un-Dead,C-28,L-01,P-28,A-106,10
+B-659,Night Shift (Night Shift #1-20),C-28,L-08,P-56,A-105,1
+B-660,Needful Things,C-28,L-01,P-25,A-94,1
+B-661,Misery,C-28,L-03,P-27,A-41,1
+B-662,It,C-28,L-02,P-51,A-130,3
+B-663,'Salem's Lot,C-28,L-04,P-11,A-218,3
+B-664,The Stand,C-28,L-06,P-22,A-06,1
+B-665,The Girl with All the Gifts,C-28,L-01,P-48,A-06,2
+B-666,House of Leaves,C-28,L-07,P-55,A-118,3
+B-667,Sapiens: A Brief History of Humankind,C-29,L-01,P-15,A-364,6
+B-668,"Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink",C-29,L-08,P-35,A-149,9
+B-669,The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind,C-29,L-01,P-49,A-272,8
+B-670,"Political Suicide: Missteps, Peccadilloes, Bad Calls, Backroom Hijinx, Sordid Pasts, Rotten Breaks, and Just Plain Dumb Mistakes in the Annals of American Politics",C-29,L-07,P-10,A-83,5
+B-671,Thomas Jefferson and the Tripoli Pirates: The Forgotten War That Changed American History,C-29,L-08,P-47,A-120,1
+B-672,Zealot: The Life and Times of Jesus of Nazareth,C-29,L-04,P-44,A-97,2
+B-673,A Distant Mirror: The Calamitous 14th Century,C-29,L-01,P-32,A-193,9
+B-674,1491: New Revelations of the Americas Before Columbus,C-29,L-06,P-38,A-336,7
+B-675,Brilliant Beacons: A History of the American Lighthouse,C-29,L-07,P-32,A-276,3
+B-676,"""Most Blessed of the Patriarchs"": Thomas Jefferson and the Empire of the Imagination",C-29,L-08,P-39,A-176,1
+B-677,A Short History of Nearly Everything,C-29,L-06,P-41,A-362,8
+B-678,The Rise and Fall of the Third Reich: A History of Nazi Germany,C-29,L-03,P-58,A-165,1
+B-679,Catherine the Great: Portrait of a Woman,C-29,L-03,P-10,A-318,4
+B-680,The Mathews Men: Seven Brothers and the War Against Hitler's U-boats,C-29,L-05,P-25,A-51,4
+B-681,The Hiding Place,C-29,L-01,P-05,A-359,9
+B-682,America's War for the Greater Middle East: A Military History,C-29,L-07,P-36,A-221,1
+B-683,The Guns of August,C-29,L-04,P-14,A-235,5
+B-684,"House of Lost Worlds: Dinosaurs, Dynasties, and the Story of Life on Earth",C-29,L-08,P-07,A-341,1
+B-685,"Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More",C-30,L-08,P-47,A-298,2
+B-686,"The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!",C-30,L-02,P-29,A-279,5
+B-687,My Paris Kitchen: Recipes and Stories,C-30,L-03,P-09,A-329,6
+B-688,"Mama Tried: Traditional Italian Cooking for the Screwed, Crude, Vegan, and Tattooed",C-30,L-02,P-57,A-105,8
+B-689,"Layered: Baking, Building, and Styling Spectacular Cakes",C-30,L-03,P-38,A-50,4
+B-690,The Nerdy Nummies Cookbook: Sweet Treats for the Geek in All of Us,C-30,L-03,P-12,A-235,9
+B-691,The Love and Lemons Cookbook: An Apple-to-Zucchini Celebration of Impromptu Cooking,C-30,L-04,P-26,A-07,6
+B-692,The Cookies & Cups Cookbook: 125+ sweet & savory recipes reminding you to Always Eat Dessert First,C-30,L-05,P-43,A-348,2
+B-693,"Deliciously Ella Every Day: Quick and Easy Recipes for Gluten-Free Snacks, Packed Lunches, and Simple Meals",C-30,L-08,P-41,A-116,10
+B-694,The Help Yourself Cookbook for Kids: 60 Easy Plant-Based Recipes Kids Can Make to Stay Healthy and Save the Earth,C-30,L-05,P-36,A-207,10
+B-695,"It's All Easy: Healthy, Delicious Weeknight Meals in under 30 Minutes",C-30,L-08,P-18,A-345,5
+B-696,Barefoot Contessa Back to Basics,C-30,L-02,P-29,A-87,9
+B-697,Barefoot Contessa at Home: Everyday Recipes You'll Make Over and Over Again,C-30,L-05,P-49,A-259,9
+B-698,My Kitchen Year: 136 Recipes That Saved My Life,C-30,L-04,P-26,A-115,5
+B-699,Everyday Italian: 125 Simple and Delicious Recipes,C-30,L-07,P-20,A-271,10
+B-700,"A la Mode: 120 Recipes in 60 Pairings: Pies, Tarts, Cakes, Crisps, and More Topped with Ice Cream, Gelato, Frozen Custard, and More",C-30,L-05,P-09,A-337,3
+B-701,Cravings: Recipes for What You Want to Eat,C-30,L-04,P-32,A-273,6
+B-702,"The Moosewood Cookbook: Recipes from Moosewood Restaurant, Ithaca, New York",C-30,L-01,P-56,A-112,1
+B-703,32 Yolks,C-30,L-06,P-04,A-90,2
+B-704,"Naturally Lean: 125 Nourishing Gluten-Free, Plant-Based Recipes--All Under 300 Calories",C-30,L-08,P-53,A-199,10
+B-705,How to Cook Everything Vegetarian: Simple Meatless Recipes for Great Food (How to Cook Everything),C-30,L-03,P-08,A-335,3
+B-706,How to Be a Domestic Goddess: Baking and the Art of Comfort Cooking,C-30,L-06,P-56,A-94,1
+B-707,The Barefoot Contessa Cookbook,C-30,L-04,P-36,A-145,8
+B-708,Better Homes and Gardens New Cook Book,C-30,L-04,P-43,A-327,9
+B-709,The Power Greens Cookbook: 140 Delicious Superfood Recipes,C-30,L-05,P-49,A-319,5
+B-710,Mexican Today: New and Rediscovered Recipes for Contemporary Kitchens,C-30,L-08,P-16,A-291,3
+B-711,Vegan Vegetarian Omnivore: Dinner for Everyone at the Table,C-30,L-04,P-24,A-256,1
+B-712,The Smitten Kitchen Cookbook,C-30,L-01,P-03,A-165,9
+B-713,"The Art of Simple Food: Notes, Lessons, and Recipes from a Delicious Revolution",C-30,L-03,P-27,A-184,9
+B-714,Hungry Girl Clean & Hungry: Easy All-Natural Recipes for Healthy Eating in the Real World,C-30,L-07,P-08,A-361,4
+B-715,Redeeming Love,C-31,L-01,P-49,A-113,6
+B-716,Close to You,C-31,L-02,P-39,A-271,4
+B-717,Shadows of the Past (Logan Point #1),C-31,L-01,P-47,A-259,3
+B-718,Like Never Before (Walker Family #2),C-31,L-02,P-13,A-35,7
+B-719,Counted With the Stars (Out from Egypt #1),C-31,L-07,P-55,A-83,8
+B-720,If I Run (If I Run #1),C-31,L-03,P-44,A-195,10
+B-721,The Dirty Little Secrets of Getting Your Dream Job,C-32,L-07,P-11,A-123,10
+B-722,The Third Wave: An Entrepreneurâs Vision of the Future,C-32,L-07,P-19,A-259,4
+B-723,The 10% Entrepreneur: Live Your Startup Dream Without Quitting Your Day Job,C-32,L-04,P-01,A-185,10
+B-724,Shoe Dog: A Memoir by the Creator of NIKE,C-32,L-02,P-06,A-37,8
+B-725,Made to Stick: Why Some Ideas Survive and Others Die,C-32,L-02,P-55,A-268,3
+B-726,Quench Your Own Thirst: Business Lessons Learned Over a Beer or Two,C-32,L-05,P-02,A-99,4
+B-727,The Art of Startup Fundraising,C-32,L-05,P-14,A-199,5
+B-728,Born for This: How to Find the Work You Were Meant to Do,C-32,L-04,P-13,A-03,6
+B-729,The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It,C-32,L-05,P-42,A-118,5
+B-730,"Rich Dad, Poor Dad",C-32,L-04,P-46,A-252,9
+B-731,The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses,C-32,L-02,P-36,A-216,8
+B-732,Rework,C-32,L-01,P-44,A-127,2
+B-733,Louisa: The Extraordinary Life of Mrs. Adams,C-33,L-05,P-02,A-90,7
+B-734,"Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena",C-33,L-06,P-48,A-163,9
+B-735,The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist,C-33,L-08,P-14,A-313,6
+B-736,Benjamin Franklin: An American Life,C-33,L-07,P-42,A-360,9
+B-737,The Rise of Theodore Roosevelt (Theodore Roosevelt #1),C-33,L-02,P-60,A-212,5
+B-738,In Her Wake,C-34,L-02,P-58,A-305,9
+B-739,The Elephant Tree,C-34,L-08,P-47,A-32,10
+B-740,Behind Closed Doors,C-34,L-05,P-34,A-223,9
+B-741,You (You #1),C-34,L-07,P-50,A-10,5
+B-742,The Guilty (Will Robie #4),C-34,L-08,P-33,A-268,8
+B-743,The 14th Colony (Cotton Malone #11),C-34,L-02,P-12,A-169,3
+B-744,Give It Back,C-34,L-01,P-39,A-30,8
+B-745,Killing Floor (Jack Reacher #1),C-34,L-01,P-15,A-320,6
+B-746,The Bone Hunters (Lexy Vaughan & Steven Macaulay #2),C-34,L-07,P-12,A-334,8
+B-747,Far From True (Promise Falls Trilogy #2),C-34,L-06,P-37,A-93,3
+B-748,The Travelers,C-34,L-07,P-07,A-90,10
+B-749,When We Collided,C-35,L-05,P-57,A-144,8
+B-750,Someone Like You (The Harrisons #2),C-35,L-07,P-60,A-08,10
+B-751,We Are All Completely Beside Ourselves,C-35,L-03,P-15,A-346,7
+B-752,The Four Agreements: A Practical Guide to Personal Freedom,C-36,L-01,P-56,A-161,6
+B-753,The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution,C-36,L-06,P-09,A-65,5
+B-754,Chasing Heaven: What Dying Taught Me About Living,C-36,L-01,P-43,A-102,7
+B-755,If I Gave You God's Phone Number....: Searching for Spirituality in America,C-36,L-08,P-14,A-350,8
+B-756,Unreasonable Hope: Finding Faith in the God Who Brings Purpose to Your Pain,C-36,L-08,P-16,A-180,1
+B-757,A New Earth: Awakening to Your Life's Purpose,C-36,L-03,P-12,A-308,1
+B-758,Logan Kade (Fallen Crest High #5.5),C-37,L-04,P-12,A-99,2
+B-759,Online Marketing for Busy Authors: A Step-By-Step Guide,C-38,L-02,P-41,A-45,2
+B-760,How to Be Miserable: 40 Strategies You Already Use,C-38,L-03,P-38,A-83,10
+B-761,"Overload: How to Unplug, Unwind, and Unleash Yourself from the Pressure of Stress",C-38,L-02,P-15,A-213,5
+B-762,You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life,C-38,L-01,P-58,A-24,8
+B-763,How to Stop Worrying and Start Living,C-38,L-01,P-37,A-11,2
+B-764,All the Light We Cannot See,C-39,L-02,P-38,A-336,4
+B-765,The Girl You Left Behind (The Girl You Left Behind #1),C-39,L-02,P-47,A-186,5
+B-766,(Un)Qualified: How God Uses Broken People to Do Big Things,C-40,L-08,P-29,A-300,8
+B-767,Crazy Love: Overwhelmed by a Relentless God,C-40,L-03,P-41,A-83,7
+B-768,Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality,C-40,L-04,P-02,A-60,3
+B-769,Silence in the Dark (Logan Point #4),C-41,L-08,P-28,A-163,1
+B-770,The Grownup,C-42,L-01,P-58,A-243,3
+B-771,Suzie Snowflake: One beautiful flake (a self-esteem story),C-43,L-03,P-42,A-75,5
+B-772,"The Bulletproof Diet: Lose up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life",C-44,L-06,P-13,A-122,2
+B-773,"Eat Fat, Get Thin",C-44,L-05,P-51,A-02,8
+B-774,10-Day Green Smoothie Cleanse: Lose Up to 15 Pounds in 10 Days!,C-44,L-04,P-55,A-60,10
+B-775,The Art and Science of Low Carbohydrate Living,C-44,L-07,P-43,A-57,7
+B-776,Libertarianism for Beginners,C-45,L-07,P-04,A-254,3
+B-777,Why the Right Went Wrong: Conservatism--From Goldwater to the Tea Party and Beyond,C-45,L-06,P-16,A-176,4
+B-778,Equal Is Unfair: America's Misguided Fight Against Income Inequality,C-45,L-04,P-03,A-201,6
+B-779,Amid the Chaos,C-46,L-01,P-56,A-347,7
+B-780,Dark Notes,C-47,L-08,P-01,A-241,4
+B-781,The Long Shadow of Small Ghosts: Murder and Memory in an American City,C-48,L-02,P-53,A-111,3
