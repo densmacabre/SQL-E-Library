@@ -37,11 +37,13 @@ pip install -r requirements.txt
 Case for Analysis SQL scripts are available in the queries/ folder as the provided case_analysis.sql file.
 
 ## 📊 Case Insights
-
 This project provides insights from case analysis, such as:
 - The most frequently borrowed books and authors.
 - Popular genres and borrowing patterns.
 - Overdue book trends by library branches.
+
+## 📄 Technical Report
+For a detailed explanation of the project, including database design, data generation, and SQL analysis, refer to the [Technical Report](report/E-Library_Database_System.pdf).
 
 ## 📁 Project Structure
 
@@ -61,7 +63,9 @@ SQL-E-Library/
 │   ├── loans.csv
 │   ├── publishers.csv
 │   └── users.csv
-└── queries/
-    ├── case_analysis.sql
-    └── ddl.sql
+├── queries/
+│   ├── case_analysis.sql
+│   └── ddl.sql
+├── report/
+    └── E-Library Database System.pdf
 ```
